@@ -24,7 +24,7 @@ Our work is open-source because we believe security should be transparent, colla
 * [**Byomkesh**](https://github.com/Prachir-AI/Byomkesh)
   An All in one Frontend Security Tool to analyze, beutify and AI powered secure code review.
 
-* [**VaultGuard**](https://github.com/Prachir-AI/DreamtestAI)
+* [**DreamtestAI**](https://github.com/Prachir-AI/DreamtestAI)
   AI powered SAST tool on scale.
 
 
