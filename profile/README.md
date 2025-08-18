@@ -2,7 +2,7 @@
 
 > **Fearless Security Companion.**
 
-We are in a mission for empowering AI Agentic security, building tools, that help individuals and organizations stay safe in the digital world.
+We are in a mission for empowering AI Security, Agentic security, Secure Code Reviews accross AI/ML models, building tools, that help individuals and organizations secure their product and services.
 
 
 ---
@@ -14,12 +14,9 @@ We specialize in:
 * 🔐 **Secure software tooling**
 * 🕵️‍♂️ **Offensive and defensive security research**
 * 📚 **Hardware and IOT Security**
-
-Our work is open-source because we believe security should be transparent, collaborative, and accessible.
-
 ---
 
-### 🚀 Featured Projects
+###  Security Tools
 
 * [**Byomkesh**](https://github.com/Prachir-AI/Byomkesh)
   An All in one Frontend Security Tool to analyze, beutify and AI powered secure code review.
@@ -29,7 +26,4 @@ Our work is open-source because we believe security should be transparent, colla
 
 
 ---
-
-### 📫 Contact Us
-* 📧 Email: [fthdevops@proton.me](fthdevops@proton.me)
 
