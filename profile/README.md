@@ -23,6 +23,12 @@ We specialize in:
 
 * [**DreamtestAI**](https://github.com/Prachir-AI/DreamtestAI)
   AI powered SAST tool on scale.
+  
+---
+
+### Use Our Models from Huggingface🤗
+* [**Thinkmini**](https://huggingface.co/Prachir-AI/Thinkmini)
+  Simple and lightweight Text Generation
 
 
 ---
