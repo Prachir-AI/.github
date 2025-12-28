@@ -1,6 +1,6 @@
 
 
-> ['PrachirAI is Non-Proft for Responsible AI and Public Safety']
+> PrachirAI is Non-Proft for Responsible AI and Public Safety
 
 * Tools For Modern Appsecops.
 [**Byomkesh**](https://github.com/Prachir-AI/Byomkesh)
@@ -11,9 +11,10 @@
   
 ---
 
-### Use Our Models from Huggingface🤗
- [![**Thinkmini**](https://huggingface.co/Prachir-AI/Thinkmini)
-SLM with Reasoning Capabilities
+### Our Future proof models
+ [**Thinkmini**](https://huggingface.co/Prachir-AI/Thinkmini)
+LLM with Reasoning Capabilities
+
 
 
 
