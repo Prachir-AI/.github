@@ -2,7 +2,8 @@
 
 > PrachirAI is Non-Proft for Responsible AI and Public Safety
 
-* Tools For Modern Appsecops.
+### Tools For Modern Appsecops.
+*
 [**Byomkesh**](https://github.com/Prachir-AI/Byomkesh)
   An All in one Frontend Security Tool to analyze, beutify and AI powered secure code review.
 
