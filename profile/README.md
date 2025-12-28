@@ -3,11 +3,10 @@
 > PrachirAI is Non-Proft for Responsible AI and Public Safety
 
 ### Tools For Modern Appsecops.
-*
-[**Byomkesh**](https://github.com/Prachir-AI/Byomkesh)
+- [**Byomkesh**](https://github.com/Prachir-AI/Byomkesh)
   An All in one Frontend Security Tool to analyze, beutify and AI powered secure code review.
 
-* [**DreamtestAI**](https://github.com/Prachir-AI/DreamtestAI)
+- [**DreamtestAI**](https://github.com/Prachir-AI/DreamtestAI)
   AI powered SAST tool on scale.
   
 ---
