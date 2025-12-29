@@ -11,10 +11,11 @@
   
 ---
 
-[Our Huggingface Profile](https://huggingface.co)
+> ## Our SOTA models
  - [**Thinkmini**](https://huggingface.co/Prachir-AI/Thinkmini)
 LLM with Reasoning Capabilities
-
+ - [**CVEPARROT**](https://huggingface.co/Prachir-AI/cveparrot)
+SLM for VM
 
 
 
