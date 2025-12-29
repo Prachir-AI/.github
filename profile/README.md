@@ -11,7 +11,7 @@
   
 ---
 
-[*[Our Huggingface Profile](https://huggingface.co)
+[![Our Huggingface Profile](https://huggingface.co)
  [**Thinkmini**](https://huggingface.co/Prachir-AI/Thinkmini)
 LLM with Reasoning Capabilities
 
