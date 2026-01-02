@@ -1,6 +1,6 @@
 
 
-> # PrachirAI is Non-Proft for Responsible AI and Digital Safety
+> # PrachirAI is Non-Profit for Responsible AI and Digital Safety
 
 ### Tools For Modern Appsecops.
 
